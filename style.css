@@ -11,7 +11,7 @@
 
 header{
     background-color: #1F2937;
-    padding: 16px 56px;
+    padding: 16px 180px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -41,12 +41,13 @@ header ul li a:hover{
 .hero-section{
     background-color: #1F2937;
     display: flex;
-    padding: 50px;
+    padding: 50px 180px;
     align-items: center;
+    justify-content: space-between;
 }
 
 .hero-container{
-    margin: 8px 32px;
+    margin: 8px 64px;
 }
 
 .hero-container h1{
@@ -117,7 +118,7 @@ header ul li a:hover{
 
 .quote-section{
     background-color: #e5e7eb;
-    padding: 72px;
+    padding: 72px 200px;
 }
 
 .quote-section h3{
@@ -134,7 +135,7 @@ header ul li a:hover{
 }
 
 .call-to-action-section{
-    margin: 72px;
+    margin: 72px 200px;
 }
 
 .cta{
